@@ -17,7 +17,7 @@ namespace construtor_em_classes
 
     class Filme
     {
-        public string nome;                 // public para conseguir acessas a info fora da classe
+        public string nome;                 // public para conseguir acessar a info fora da classe
         public string descricao;
         public int ano;
         public string studio;

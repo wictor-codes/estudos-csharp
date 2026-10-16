@@ -7,7 +7,7 @@
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Selecione uma das opções aaixo:");
+            Console.WriteLine("Selecione uma das opções abaixo:");
             Console.WriteLine("1 - Criar\n2 - Deletar\n3 - Editar");
 
             int indice = int.Parse(Console.ReadLine());
